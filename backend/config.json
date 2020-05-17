@@ -1,0 +1,13 @@
+{
+  "serverPort": 1234,
+  "auth": {
+    "secretKey": "",
+    "expires": "1h"
+  },
+  "db": {
+    "host": "",
+    "port": 27017,
+    "user": "",
+    "password": ""
+  }
+}
